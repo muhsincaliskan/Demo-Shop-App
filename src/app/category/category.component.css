@@ -1,0 +1,7 @@
+.list-group-item{
+    border-left-style:none ;
+    border-right-style:none ;
+}
+.list-group-item:hover{
+    background-color:cornflowerblue;
+}

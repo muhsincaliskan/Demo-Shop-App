@@ -1,0 +1,17 @@
+
+#productRow{
+    justify-content: space-between;
+   
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.card-columns{
+ border-radius: 20px;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: scale-down;
+}
+/*responsive card image*/
